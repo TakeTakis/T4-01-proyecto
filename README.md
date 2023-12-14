@@ -1,11 +1,14 @@
-# API RESTful con Node.js
+# SYNC con Node.js
 
-Proyecto de demostración para clases de desarrollo de APIs utilizando Node.js,
-con implementación en contenedores de Docker.
+Sync es un proyecto que buscar ser una aplicacion para el atendimiento de las emociones humanas
+con la ayuda de un diario de emociones. Para ello se encontraran los usuarios, las zonas donde reciden, 
+los diarios, las paginas y los trabajadores los cuales son profesionales de la salud mental
+
+Se utilizara Node.js y Docker para su demostracion
 
 ## Tabla de contenido
 
-- [API RESTful con Node.js](#api-restful-con-nodejs)
+- [SYNC con Node.js](#sync-con-nodejs)
   - [Tabla de contenido](#tabla-de-contenido)
   - [Requisitos de instalación](#requisitos-de-instalación)
   - [Instrucciones para la instalación](#instrucciones-para-la-instalación)
@@ -23,13 +26,13 @@ Asegúrate de tener instalado y configurado Docker antes de comenzar.
 1. Clonar el repositorio en la máquina local:
    
    ```sh
-   git clone https://github.com/francerz/node-restful.git
+   git clone https://github.com/TakeTakis/T4-01-proyecto
    ```
 
 2. Navegar al directorio del proyecto:
    
    ```sh
-   cd node-restful
+   cd NODE-RESTFUL-MASTER
    ```
 
 3. Ejecutar el siguiente comando para iniciar los contenedores:

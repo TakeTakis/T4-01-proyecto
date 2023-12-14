@@ -1,7 +1,7 @@
 Guía para la creación de este repositorio
 =========================================
 
-Crear un directorio para contener el proyecto llamado `node-rest`.
+Crear un directorio para contener el proyecto llamado `node-rest-master`.
 
 Inicializar el repositorio de Git:
 
